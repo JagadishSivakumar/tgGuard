@@ -36,6 +36,8 @@
 
 ### _Instruction_ 
 
+The bot is built using 'lua' , Lua is a lightweight, multi-paradigm programming language designed primarily for embedded use in applications.Lua is cross-platform, since the interpreter is written in ANSI C, and has a relatively simple C API.
+
 first goto botfather and create a robot
 
 trun on inline mode, inline location and change Inline feedback to 100%
